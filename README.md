@@ -1,11 +1,21 @@
-**Pre-requisite**
-pip install pygame
+#Malorum
+
+
+## Pre-requisite
+
+```bash
+  pip install pygame
+  py pip install pygame
+```
+
+
 
 - Save all your files at a single folder and run the app.py in python
 
 
 
-**Description**
+
+##Description
 You play as a person sick of Lorem Ipsum, willing to do anything to get rid of it. Mooie’s are just cute lil ghosts. They carry the spirit of Lorem Ipsum forward, and you don’t like that. 
 So, on a quest to finally kill this wretched practice, you set off on a journey to destroy all Mooies.
 
