@@ -1,4 +1,4 @@
-#Malorum
+# Malorum
 
 
 ## Pre-requisite
@@ -15,7 +15,7 @@
 
 
 
-##Description
+## Description
 You play as a person sick of Lorem Ipsum, willing to do anything to get rid of it. Mooie’s are just cute lil ghosts. They carry the spirit of Lorem Ipsum forward, and you don’t like that. 
 So, on a quest to finally kill this wretched practice, you set off on a journey to destroy all Mooies.
 
